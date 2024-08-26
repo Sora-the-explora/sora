@@ -21,7 +21,7 @@ repository               : "Sora-the-explora/sora"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : # "profile.png"
+  avatar           : "scientist.png"
   name             : "Sora Cullen-Baratloo"
   pronouns         : "she/her"
   bio              : "CS PhD student at UMD"
