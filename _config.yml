@@ -12,9 +12,9 @@ title                    : "Sora Cullen-Baratloo"
 title_separator          : "-"
 name                     : &name "Sora Cullen-Baratloo"
 description              : #&description "personal description"
-url                      : https://sora-the-explora.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://sora-the-explora.github.io/sora # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Sora-the-explora/sora.github.io"
+repository               : "Sora-the-explora/sora"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
