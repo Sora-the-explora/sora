@@ -9,7 +9,7 @@ main:
     url: /publications/
 
   - title: "Resume"
-    url: /resume/resume.pdf
+    url: resume/resume.pdf
 
   # - title: "Talks"
   #   url: /talks/
