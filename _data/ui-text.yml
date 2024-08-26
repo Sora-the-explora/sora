@@ -25,7 +25,7 @@ en: &DEFAULT_EN
   feed_label                 : "Feed"
   powered_by                 : "Powered by"
   website_label              : "Website"
-  email_label                : "Email"
+  email_label                : "soracb174@gmail.com"
   recent_posts               : "Recent Posts"
   undefined_wpm              : "Undefined parameter words_per_minute at _config.yml"
   comment_form_info          : "Your email address will not be published. Required fields are marked"
@@ -84,7 +84,7 @@ es: &DEFAULT_ES
   comment_form_website_label : "Página web (opcional)"
   comment_btn_submit         : "Enviar comentario"
   comment_btn_submitted      : "Enviado"
-  comment_success_msg        : "¡Gracias por tu comentario! Aparecerá en la página cuando sea aprobado." 
+  comment_success_msg        : "¡Gracias por tu comentario! Aparecerá en la página cuando sea aprobado."
   comment_error_msg          : "Lo sentimos, ha habido un error con tu solicitud. Por favor, asegúrate de rellenar todos los campos obligatorios e inténtalo de nuevo."
   loading_label              : "Cargando..."
 es-ES:
