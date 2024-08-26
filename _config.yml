@@ -12,7 +12,7 @@ title                    : "Sora Cullen-Baratloo"
 title_separator          : "-"
 name                     : &name "Sora Cullen-Baratloo"
 description              : #&description "personal description"
-url                      : https://sora-the-explora.github.io/sora # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://sora-the-explora.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Sora-the-explora/sora"
 
